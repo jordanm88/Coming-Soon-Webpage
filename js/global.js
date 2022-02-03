@@ -1,9 +1,6 @@
-/*
-Theme by: WebThemez.com
-Note: Please use our back link in your site
-*/
+
 $( function() {
-        var endDate = "December  27, 2014 15:03:25";
+        var endDate = "January 1st, 2023 09:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
